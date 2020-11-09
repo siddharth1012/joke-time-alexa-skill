@@ -5,7 +5,7 @@ Step 1. login to amazon alexa console.
 Step 2. Create a Skill by giving the name and selecting Alexa Hosted(python)
 Step 3. Choose template - Create from scratch.
 Step 4. Create the Intent - you can name anything.
-Step 5. Add some sample uuterance - They will use to trigger the intent.
+Step 5. Add some sample utterance - They will use to trigger the intent.
 Step 6. Delete the Helloworld intent.
 Go to the code section.,
 In the lambda_function.py, Delete all the codes and add lambda function which I have provided in the repo or you can edit the parts which I have added in the lambda_function.py 
